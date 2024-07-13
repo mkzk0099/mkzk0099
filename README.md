@@ -3,8 +3,8 @@
 私の名前はmkzk0099です  
 私はゲームが好きです  
 毎日ゲームをします  
-私の特に好きな食べ物:　　
-寿司、餃子、カレー、たこ焼き、ピザ　　　　
+私の特に好きな食べ物:  
+寿司、餃子、カレー、たこ焼き、ピザ  
 <!--
 **mkzk0099/mkzk0099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
